@@ -1,6 +1,7 @@
 💫 About Me:
 My name is Daniel Brito, I am a Junior studying Computer Science at New York University.
-
+In my free time I enjoy working on new projects to learn more in tech, fish-keeping, and sports.
+Thank you for visiting my Github.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dannybrito_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-brito-5a4160221/) 
